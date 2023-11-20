@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Mukit",
+      "age": "23",
+      "title": "Engineer",
+      "id": 1
+    },
+    {
+      "name": "Naima",
+      "age": "20",
+      "title": "Doctor",
+      "id": 5
+    },
+    {
+      "name": "Laila",
+      "age": "25",
+      "title": "Teacher",
+      "id": 7
+    },
+    {
+      "name": "Rafan",
+      "age": "3",
+      "title": "Baby",
+      "id": 8
+    },
+    {
+      "name": "Rafat",
+      "age": "11",
+      "title": "Student",
+      "id": 9
+    }
+  ]
+}
